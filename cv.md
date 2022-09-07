@@ -15,7 +15,7 @@ discord: ArtemFay(@ArtemFay)
 ***
 
 ### Briefly About Myself:
-text About Myself
+I have been developing analytical systems in Google Spreadsheets for more than 8 years. I studied all the built-in functions, but at some point they become insufficient. You can extend the possibilities of tables with scripts. They are written using the Google Apps Script language. And it, in turn, is based on Java Script. So, unbeknownst to myself, I learned JS. And I liked it so much that I wanted to delve into the world of IT and become a front-end developer.
 
 ***
 
