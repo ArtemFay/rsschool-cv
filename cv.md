@@ -181,9 +181,12 @@ function loadRaschet() {
   Browser.msgBox('Расчет загружен')
 }
 ```
-***
 <img src="smeta.png" alt="smeta" width="600"/>
+
+***
+
 ### Experience:
+
 [rsschool-cv](https://github.com/ArtemFay/rsschool-cv) - First project in RS-School.                          
 [GitHub](https://github.com/ArtemFay) - My personal GitHub account with all of my projects.
 
