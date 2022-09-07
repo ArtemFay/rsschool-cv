@@ -29,12 +29,7 @@ I have been developing analytical systems in Google Spreadsheets for more than 8
 ***
 
 ### Code example:
-> Kata from [CodeWars](https://www.codewars.com/) by [ArtemFay](https://www.codewars.com/users/ArtemFay)
->Trolls are attacking your comment section!
->A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
->Your task is to write a function that takes a string and return a new string with all vowels removed.
->For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
->Note: for this kata y isn't considered a vowel.
+>One of my last projects in Google Sheets required the use of a JS script. The essence of the task is to speed up and simplify the calculation of the order for a company that is engaged in drilling wells. The script resets the calculation, substitutes the necessary variables. Saves and loads past calculations. It also generates final estimates, removing a large burden from the company's managers.
 
 My solution:
 ```js
@@ -187,7 +182,7 @@ function loadRaschet() {
 }
 ```
 ***
-<img src="smeta.jpg" alt="smeta" width="600"/>
+<img src="smeta.png" alt="smeta" width="600"/>
 ### Experience:
 [rsschool-cv](https://github.com/ArtemFay/rsschool-cv) - First project in RS-School.                          
 [GitHub](https://github.com/ArtemFay) - My personal GitHub account with all of my projects.
